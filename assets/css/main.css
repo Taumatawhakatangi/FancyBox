@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #adf7da;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 300px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery__item {
+  margin-right: 40px;
+}
